@@ -1,5 +1,7 @@
 //Problem from https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/
 
+//Algorithm implemented based on https://www.cis.upenn.edu/~matuszek/cit594-2012/Pages/backtracking.html
+
 #include<iostream>
 #include<bits/stdc++.h>
 using namespace std;
