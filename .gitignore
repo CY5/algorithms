@@ -1,4 +1,13 @@
-
+*.slo
+*.lo
+*.o
+*.a
+*.la
+*.lai
+*.so
+*.so.*
+*.dll
+*.dylib
 *.[oa]
 
 *.[a-c].out
