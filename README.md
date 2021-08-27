@@ -4,3 +4,4 @@
 3. Binary Search
 	- lower bound search
 4. Merge Sort List
+5. Add two Binary Number stored in two n-element arrays A and B.
